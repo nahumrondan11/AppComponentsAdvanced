@@ -65,6 +65,7 @@ fun EjemploCustomDialog(mostrar: Boolean,
         }
     }
 }
+/*test*/
 
 @Composable
 fun ItemDialog(texto: String, @DrawableRes drawable: Int){
