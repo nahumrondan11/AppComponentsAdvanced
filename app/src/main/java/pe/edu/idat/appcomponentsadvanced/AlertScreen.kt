@@ -45,7 +45,7 @@ fun EjemploCustomDialog(mostrar: Boolean,
                 ItemDialog(texto = "Luis",
                     drawable = R.drawable.ic_launcher_background )
 
-                ItemDialog(texto = "Nahum",
+                ItemDialog(texto = "Nahum testeooo",
                     drawable = R.drawable.ic_launcher_background )
 
                 ItemDialog(texto = "Santi",
